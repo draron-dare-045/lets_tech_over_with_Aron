@@ -6,34 +6,15 @@
 ![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20Android%20%7C%20Full--Stack-58dbc6?style=for-the-badge&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/Based%20in-Nairobi%2C%20Kenya-58dbc6?style=for-the-badge&labelColor=0d1117)
 
-# Hi, I'm Aron 
+<img src="./hi-im-aron.png" alt="Hi, I'm Aron" width="420"/>
 
 I'm a **Software Developer** and **Computer Science student** working across **AI systems**, **Android development**, and **full-stack web**. Currently building at **Ketha Technologies**, with a recurring focus on verification, record-keeping, and trust systems for institutions and underserved markets across Kenya and East Africa.
-
-<!-- Swap these for your real links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aron-onkware-221b27362/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lets_tech_over/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aronondieki046@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58dbc6)](https://your-portfolio-url.example.com)
 
 </div>
 
 ---
 
-## What I'm Building
-
-**Real problems, real users** — most of my projects start from a gap I've seen in an institution or a market that's underserved by formal digital tools.
-
-- **[Ketha AI Insights](#)** — Conversational AI assistant for smallholder dairy farmers, built on FastAPI + AWS Bedrock + ChromaDB, interconnected with a dynamic reporting agent.
--  **[RightWay Out](#)** — Android school clearance app piloted at a real high school. Jetpack Compose, MVVM/Clean Architecture, Hilt, Room, Firebase — with role-based login, bulk CSV import, and a full messaging system.
-- **[Kinga (InSureScore)](#)** — Parametric agricultural microinsurance platform over USSD, built for the Africa's Talking Insurtech Hackathon, with a rule-based scoring engine and live admin dashboard.
-- **[University of Nairobi Alumni Portal](#)** — Oracle XE + FastAPI + glassmorphism frontend, with blockchain-style append-only tables, interval partitioning, and materialized views.
-- **[Kingdom Missions Centre](#)** — React + Vite + Tailwind ministry website with an Express + Cloudinary backend and a password-protected admin dashboard for content management.
-- **Farmart** — A solo AI-assistant-for-farmers build for the OpenAI Build Week Community Hackathon in Nairobi.
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -85,5 +66,6 @@ Thanks for stopping by — if you're working on something in AI, Android, or civ
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aron-onkware-221b27362/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lets_tech_over/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aronondieki046@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58dbc6)](https://your-portfolio-url.example.com)
 
 </div>
