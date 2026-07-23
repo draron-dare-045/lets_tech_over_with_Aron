@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./lets-tech-over-with-aron-styled.gif" alt="Let's tech over with Aron" width="100%"/>
+<img src="./animation.gif" alt="Let's tech over with Aron" width="100%"/>
 
 ![Status](https://img.shields.io/badge/Status-CS%20Student%20%26%20Developer-58dbc6?style=for-the-badge&labelColor=0d1117)
 ![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20Android%20%7C%20Full--Stack-58dbc6?style=for-the-badge&labelColor=0d1117)
@@ -11,10 +11,10 @@
 I'm a **Software Developer** and **Computer Science student** working across **AI systems**, **Android development**, and **full-stack web**. Currently building at **Ketha Technologies**, with a recurring focus on verification, record-keeping, and trust systems for institutions and underserved markets across Kenya and East Africa.
 
 <!-- Swap these for your real links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58dbc6)](https://YOUR-PORTFOLIO-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aron-onkware-221b27362/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lets_tech_over/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aronondieki046@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58dbc6)](https://your-portfolio-url.example.com)
 
 </div>
 
@@ -82,8 +82,8 @@ I'm a **Software Developer** and **Computer Science student** working across **A
 
 Thanks for stopping by — if you're working on something in AI, Android, or civic/institutional tech in East Africa, I'd love to hear about it.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aron-onkware-221b27362/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lets_tech_over/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aronondieki046@gmail.com)
 
 </div>
