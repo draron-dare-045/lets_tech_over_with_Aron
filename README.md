@@ -24,12 +24,12 @@ I'm a **Software Developer** and **Computer Science student** working across **A
 
 **Real problems, real users** — most of my projects start from a gap I've seen in an institution or a market that's underserved by formal digital tools.
 
-- 🐄 **[Ketha AI Insights](#)** — Conversational AI assistant for smallholder dairy farmers, built on FastAPI + AWS Bedrock + ChromaDB, interconnected with a dynamic reporting agent.
-- 🎓 **[RightWay Out](#)** — Android school clearance app piloted at a real high school. Jetpack Compose, MVVM/Clean Architecture, Hilt, Room, Firebase — with role-based login, bulk CSV import, and a full messaging system.
-- 🌾 **[Kinga (InSureScore)](#)** — Parametric agricultural microinsurance platform over USSD, built for the Africa's Talking Insurtech Hackathon, with a rule-based scoring engine and live admin dashboard.
-- 🎓 **[University of Nairobi Alumni Portal](#)** — Oracle XE + FastAPI + glassmorphism frontend, with blockchain-style append-only tables, interval partitioning, and materialized views.
-- ⛪ **[Kingdom Missions Centre](#)** — React + Vite + Tailwind ministry website with an Express + Cloudinary backend and a password-protected admin dashboard for content management.
-- 🌱 **Farmart** — A solo AI-assistant-for-farmers build for the OpenAI Build Week Community Hackathon in Nairobi.
+- **[Ketha AI Insights](#)** — Conversational AI assistant for smallholder dairy farmers, built on FastAPI + AWS Bedrock + ChromaDB, interconnected with a dynamic reporting agent.
+-  **[RightWay Out](#)** — Android school clearance app piloted at a real high school. Jetpack Compose, MVVM/Clean Architecture, Hilt, Room, Firebase — with role-based login, bulk CSV import, and a full messaging system.
+- **[Kinga (InSureScore)](#)** — Parametric agricultural microinsurance platform over USSD, built for the Africa's Talking Insurtech Hackathon, with a rule-based scoring engine and live admin dashboard.
+- **[University of Nairobi Alumni Portal](#)** — Oracle XE + FastAPI + glassmorphism frontend, with blockchain-style append-only tables, interval partitioning, and materialized views.
+- **[Kingdom Missions Centre](#)** — React + Vite + Tailwind ministry website with an Express + Cloudinary backend and a password-protected admin dashboard for content management.
+- **Farmart** — A solo AI-assistant-for-farmers build for the OpenAI Build Week Community Hackathon in Nairobi.
 
 ---
 
