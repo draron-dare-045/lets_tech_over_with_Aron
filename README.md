@@ -6,7 +6,7 @@
 ![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20Android%20%7C%20Full--Stack-58dbc6?style=for-the-badge&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/Based%20in-Nairobi%2C%20Kenya-58dbc6?style=for-the-badge&labelColor=0d1117)
 
-# Hi, I'm Aron 👋
+# Hi, I'm Aron 
 
 I'm a **Software Developer** and **Computer Science student** working across **AI systems**, **Android development**, and **full-stack web**. Currently building at **Ketha Technologies**, with a recurring focus on verification, record-keeping, and trust systems for institutions and underserved markets across Kenya and East Africa.
 
@@ -20,7 +20,7 @@ I'm a **Software Developer** and **Computer Science student** working across **A
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 **Real problems, real users** — most of my projects start from a gap I've seen in an institution or a market that's underserved by formal digital tools.
 
