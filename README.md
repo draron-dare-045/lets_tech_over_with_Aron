@@ -64,7 +64,7 @@ I'm a **Software Developer** and **Computer Science student** working across **A
 <div align="center">
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=draron-dare-045&hide_border=true&bg_color=0d1117&title_color=58dbc6&icon_color=58dbc6&text_color=c9d1d9&include_all_commits=true&count_private=true)
-![Streak Stats](https://streak-stats.demolab.com/?user=draron-dare-045&hide_border=true&background=0d1117&ring=58dbc6&fire=58dbc6&currStreakLabel=58dbc6)
+![Streak Stats](https://streak-stats.demolab.com/?user=draron-dare-045&theme=dark&hide_border=true&background=0d1117&ring=58dbc6&fire=58dbc6&currStreakLabel=58dbc6&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=draron-dare-045&hide_border=true&bg_color=0d1117&title_color=58dbc6&icon_color=58dbc6&text_color=c9d1d9&layout=compact)
 
 </div>
